@@ -1,0 +1,4 @@
+Name: Notepad
+Created-By: 8043
+Manifest-Version: 1.0
+Main-Class: org.notepad.Main
